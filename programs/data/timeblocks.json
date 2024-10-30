@@ -1,0 +1,76 @@
+{
+    "timeblocks": {
+        "weekdays": {
+            "morning": {
+                "slot": "05:00 - 09:00",
+                "actions": [
+                    "Wake up at 5am",
+                    "Read documentation"
+                ]
+            },
+            "work": {
+                "slot": "09:00 - 18:00",
+                "actions": [
+                    "Programming"
+                ]
+            },
+            "evening": {
+                "slot": "18:00 - 21:30",
+                "actions": [
+                    "Chores",
+                    "Switch off devices at 21:30"
+                ]
+            }
+        },
+        "fridays": {
+            "morning": {
+                "slot": "05:00 - 09:00",
+                "actions": [
+                    "Wake up at 5am",
+                    "Read documentation"
+                ]
+            },
+            "research": {
+                "slot": "09:00 - 18:00",
+                "actions": [
+                    "Write articles"
+                ]
+            },
+            "evening": {
+                "slot": "18:00 - 21:30",
+                "actions": [
+                    "Chores",
+                    "Switch off devices at 22:00"
+                ]
+            }
+        },
+        "weekends": {
+            "morning": {
+                "slot": "05:00 - 07:30",
+                "actions": [
+                    "Wake up at 5am",
+                    "Read documentation"
+                ]
+            },
+            "family": {
+                "slot": "07:30 - 15:00",
+                "actions": [
+                    "Spend time helping my family"
+                ]
+            },
+            "personal": { 
+                "slot": "15:00 - 20:00",
+                "actions": [
+                    "Journal"
+                ]
+            },
+            "marriage": {
+                "slot": "20:00 - 22:30",
+                "actions": [
+                    "Spend time with wife",
+                    "Go to bed at 22:30"
+                ]
+            }
+        }
+    }
+}
