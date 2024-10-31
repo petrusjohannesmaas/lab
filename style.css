@@ -1,0 +1,82 @@
+    body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    }
+
+    .full-height {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    }
+
+    .sidenav {
+    background-color: #1e1e1e;
+    color: #fff;
+    width: 250px;
+    flex-shrink: 0;
+    padding: 15px;
+    border-right: solid 1px #363333;
+    }
+
+    .main-content {
+    flex: 1;
+    background-color: #1b1b1e;
+    padding: 15px;
+    }
+
+    .toolbar {
+    background-color: #1b1b1e;
+    color: white;
+    width: 250px;
+    flex-shrink: 0;
+    padding: 15px;
+    }
+
+    .card {
+    color: #fff;
+    border: solid 1px #363333;
+    margin-bottom: 20px;
+    background-color: #1e1e1e;
+    }
+
+    button {
+    border: none;
+    border-radius: 10px;
+    background-color: #1e1e1e;
+    color: #fff;
+    font-size: small;
+    }
+
+    button:hover {
+    background-color: #252525;
+    color: #fff;
+    }
+
+    #active {
+    background-color: #252525;
+    color: #fff;
+    text-decoration-thickness: 10px;
+    }
+
+    p {
+    color: gray;
+    }
+
+    .navbar {
+    display: none;
+    background-color: #1e1e1e;
+    }
+
+    @media (max-width: 768px) {
+    .sidenav, .toolbar {
+        display: none;
+    }
+    .navbar {
+        display: block;
+    }
+    .main-content {
+        flex: 1;
+    }
+    }

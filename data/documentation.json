@@ -1,0 +1,49 @@
+{       
+    "resources": {
+        "Python": "https://www.python.org/",
+        "Fauxton": "https://couchdb.apache.org/fauxton-visual-guide/index.html#using-fauxton",
+        "FastAPI": [
+            {"Documentation": "https://fastapi.tiangolo.com/#example"},
+            {"Authentication:": "https://fastapi.tiangolo.com/tutorial/security/"}
+        ],
+        "CouchDB": [
+            {"Documentation": "https://docs.couchdb.org/en/stable/"},
+            {"Absolute Beginners": "https://www.tutorialspoint.com/couchdb/index.htm"},
+            {"Working with CouchDB from Python": "https://couchdb-python.readthedocs.io/en/latest/"},
+            {"Docker configuration": "https://docs.couchdb.org/en/latest/install/docker.html"}
+        ],
+        "Homebrew": "https://docs.brew.sh/Manpage",
+        "VScode": [
+            {"Python": "https://code.visualstudio.com/docs/languages/python"},
+            {"Remote Tunnels": "https://code.visualstudio.com/docs/remote/tunnels"},
+            {"Settings Sync": "https://code.visualstudio.com/docs/editor/settings-sync"},
+            {"Git source control": "https://code.visualstudio.com/docs/sourcecontrol/overview"},
+            {"Managing your Github personal access tokens": "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens"}
+        ]
+    },
+    "read": {
+        "Networking Access Control Lists (ACL)": "https://www.okta.com/identity-101/access-control-list/",
+        "Why CouchDB": "https://docs.couchdb.org/en/stable/intro/why.html",
+        "Hosting a website on Github pages": "https://www.w3schools.com/git/git_remote_pages.asp?remote=github"
+    },
+    "unread": {
+        "Fallacies of Distributed computing": "https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing",
+        "Python (programming language)": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+        "Python data structures": "https://corporatefinanceinstitute.com/resources/data-science/python-data-structures/",
+        "Algorithms": "https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/what-are-algorithms-algos/",
+        "JSON in MySQL": "https://planetscale.com/learn/courses/mysql-for-developers/schema/json",
+        "JSON query language": "https://jmespath.org/tutorial.html",
+        "Binary strings in MySQL": "https://planetscale.com/learn/courses/mysql-for-developers/schema/binary-strings",
+        "What is gRPC?": "https://grpc.io/docs/what-is-grpc/",
+        "How to Scrape Stock Data with Python": "https://corporatefinanceinstitute.com/resources/data-science/how-to-scrape-stock-data-with-python/",
+        "Gravity calculations in Python": "https://medium.com/geekculture/making-a-gravity-simulator-using-python-33d90c591edd",
+        "ABAC (Attribute based access control)": "https://www.okta.com/blog/2020/09/attribute-based-access-control-abac/",
+        "RBAC (Role based access control)": "https://www.okta.com/identity-101/what-is-role-based-access-control-rbac/",
+        "Authentication vs Authorization": "https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization",
+        "Introduction to Identity and Access Management (IAM)": "https://auth0.com/docs/get-started/identity-fundamentals/identity-and-access-management",
+        "Auth0 with Python (Flask)": "https://auth0.com/docs/quickstart/webapp/python/interactive",
+        "Cerbos Authentication layer": "https://docs.cerbos.dev/cerbos/latest/what-is-cerbos",
+        "FastAPI on Visual Studio Code": "https://code.visualstudio.com/docs/python/tutorial-fastapi"
+    }
+
+}
