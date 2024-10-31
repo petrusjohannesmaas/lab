@@ -1,4 +1,5 @@
-   
+   /* Global styles */
+
     * {
         font-family: "Ubuntu", sans-serif;
         font-weight: 400;
@@ -17,6 +18,8 @@
     display: flex;
     flex-direction: row;
     }
+
+    /* Layout styles */
 
     .sidenav {
     background-color: #1e1e1e;
@@ -39,6 +42,13 @@
     width: 250px;
     flex-shrink: 0;
     }
+
+    .navbar {
+        display: none;
+        background-color: #1e1e1e;
+    }
+
+    /* Component styles */
 
     .card {
     color: #fff;
@@ -70,10 +80,29 @@
     color: gray;
     }
 
-    .navbar {
-    display: none;
-    background-color: #1e1e1e;
+    .side-box {
+        h5 {
+            text-align: center;
+        };
+        font-size: small;
+        margin: 10px 10px 0 0;
+        border: solid 1px #363333;
+        border-radius: 10px;
+        padding: 5px;
     }
+
+    .icon {
+        font-size: 1.5rem;
+    }
+
+
+
+    footer {
+    justify-content: space-between;
+    display: inline-flex;
+    }
+
+    /* Responsivity */
 
     @media (max-width: 768px) {
     .sidenav, .toolbar {
@@ -85,4 +114,8 @@
     .main-content {
         flex: 1;
     }
+    footer {
+        display: inline;
+        text-align: center;
     }
+}
