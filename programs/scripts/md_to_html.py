@@ -16,7 +16,7 @@ def markdown_to_html(md_file_path, html_file_path):
 
 if __name__ == "__main__":
     # Specify your input and output file paths
-    md_file_path = "example.md"  # Change to your Markdown file
+    md_file_path = "test.md"  # Markdown file to be converted
     html_file_path = "output.html"  # Desired output HTML file
 
     markdown_to_html(md_file_path, html_file_path)

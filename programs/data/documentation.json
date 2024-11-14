@@ -1,14 +1,15 @@
 {       
     "resources": {
         "Python": "https://www.python.org/",
-        "Fauxton": "https://couchdb.apache.org/fauxton-visual-guide/index.html#using-fauxton",
         "FastAPI": [
             {"Documentation": "https://fastapi.tiangolo.com/#example"},
+            {"Learn FastAPI": "https://fastapi.tiangolo.com/learn/"},
             {"Authentication:": "https://fastapi.tiangolo.com/tutorial/security/"}
         ],
         "CouchDB": [
             {"Documentation": "https://docs.couchdb.org/en/stable/"},
-            {"Absolute Beginners": "https://www.tutorialspoint.com/couchdb/index.htm"},
+            {"Absolute Beginners": "https://www.tutorialspoint.com/couchdb/index.html"},
+            {"Fauxton": "https://couchdb.apache.org/fauxton-visual-guide/index.html#using-fauxton"},
             {"Working with CouchDB from Python": "https://couchdb-python.readthedocs.io/en/latest/"},
             {"Docker configuration": "https://docs.couchdb.org/en/latest/install/docker.html"}
         ],
@@ -24,10 +25,16 @@
     "read": {
         "Networking Access Control Lists (ACL)": "https://www.okta.com/identity-101/access-control-list/",
         "Why CouchDB": "https://docs.couchdb.org/en/stable/intro/why.html",
-        "Hosting a website on Github pages": "https://www.w3schools.com/git/git_remote_pages.asp?remote=github"
+        "Hosting a website on Github pages": "https://www.w3schools.com/git/git_remote_pages.asp?remote=github",
+    	"Fallacies of Distributed computing": "https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing"
     },
     "unread": {
-        "Fallacies of Distributed computing": "https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing",
+    	"Open standard":"https://en.wikipedia.org/wiki/Open_standard",
+    	"Language binding":"https://en.wikipedia.org/wiki/Language_binding",
+    	"Ajax":"https://en.wikipedia.org/wiki/Ajax_(programming)",
+    	"Electronic Data Exchange":"https://en.wikipedia.org/wiki/Electronic_data_interchange",
+    	"JSON":"https://en.wikipedia.org/wiki/JSON",
+    	"Microservices": "https://en.wikipedia.org/wiki/Microservices",
         "Python (programming language)": "https://en.wikipedia.org/wiki/Python_(programming_language)",
         "Python data structures": "https://corporatefinanceinstitute.com/resources/data-science/python-data-structures/",
         "Algorithms": "https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/what-are-algorithms-algos/",

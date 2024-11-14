@@ -5,19 +5,22 @@
                 "slot": "05:00 - 09:00",
                 "actions": [
                     "Wake up at 5am",
-                    "Read documentation"
+                    "Read documentation",
+                    "School with the kids"
                 ]
             },
             "work": {
                 "slot": "09:00 - 18:00",
                 "actions": [
-                    "Programming"
+                    "Programming",
+                    "Overdue tasks"
                 ]
             },
             "evening": {
                 "slot": "18:00 - 21:30",
                 "actions": [
                     "Chores",
+                    "Play Disciplina",
                     "Switch off devices at 21:30"
                 ]
             }
@@ -33,13 +36,14 @@
             "research": {
                 "slot": "09:00 - 18:00",
                 "actions": [
-                    "Write articles"
+                    "Drafting research articles"
                 ]
             },
             "evening": {
                 "slot": "18:00 - 21:30",
                 "actions": [
                     "Chores",
+                    "Play Disciplina",
                     "Switch off devices at 22:00"
                 ]
             }
