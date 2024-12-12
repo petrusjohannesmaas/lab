@@ -3,31 +3,23 @@
 This is my personal research lab that showcases my research projects, tutorials, code and documentation.
 
 # Preperation
-- [ ] Establish Lab scaffold diagram
-- [ ] Make sure all work is organized and backed up on Debian Notebook
-- [ ] Empty current Github local repository to bare bones and commit to main
+- [ ] Establish Lab scaffold diagram for AI prompt
+- [x] Make sure all work is organized and backed up on Nextcloud
+- [x] Empty current Github local repository to bare bones and commit to main
 
-# Pre Alpha
+# Pre Alpha branch
 
-- [ ] Migrate from Bootstrap to Bulma
-- [ ] Create Index navigation page with routes
+- [ ] Create introductory Notebook for 'tutorial' *(include scaffold diagram)*
+- [ ] Convert all Notebooks to html
+- [ ] Create Index navigation page with routes to html files
 - [ ] Create pages for all routes
-- [ ] Create  introductory Notebook for 'tutorial' *(include scaffold diagram)*
-- [ ] Create lorem ipsum Notebooks (and code) for all Skilltree articles and programs
-- [ ] Outline Tier 1 documents schedule
-- [ ] Announce Pre-Alpha on social media 
+- [ ] Host on Github pages and announce/share it on social media
 
-# Alpha
+# Alpha branch
 
 - [ ] Start 'Documentation of The Day' on Twitter
-- [ ] Maintain and complete Tier 1 schedule
-- [ ] Refactor all Skilltree programs and notebooks
-- [ ] Convert all Notebooks to Markdown
-- [ ] Convert all Markdown to HTML
-- [ ] Archive all Tier 1 documents
 - [ ] Create videos for all programs
+- [ ] Outline Tier 2 documents schedule
 
 # Beta
-
-- [ ] Outline Tier 2 documents schedule
 - [ ] Maintain and complete Tier 2 schedule
